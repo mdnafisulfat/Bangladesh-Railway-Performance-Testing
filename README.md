@@ -28,6 +28,4 @@ This JMeter test checks the performance of the Bangladesh Railway system by simu
      3. Choosing 'Class'
      4. Searching for available trains
      5. Selecting a train
-
-## Repository Structure
  
